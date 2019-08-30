@@ -4,7 +4,7 @@
 #
 Name     : mvn-weld-api
 Version  : 1.1.final
-Release  : 1
+Release  : 2
 URL      : https://github.com/weld/api/archive/1.1.Final.tar.gz
 Source0  : https://github.com/weld/api/archive/1.1.Final.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
